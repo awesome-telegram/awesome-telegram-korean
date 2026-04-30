@@ -17,3 +17,7 @@
 
 ## 텔레그램 봇
 
+| 이름 | 설명 | 텔레그램 |
+|------|------|----------|
+| Cyber Collector | TikTok(워터마크 없음), Instagram Reels/스토리, YouTube+Shorts, X/Twitter, Facebook 영상 다운로드 무료 텔레그램 봇. 가입 불필요, 광고 없음. [웹사이트](https://cybercollector.hitkey.io) | [열기](https://t.me/cybercollectorbot) |
+
